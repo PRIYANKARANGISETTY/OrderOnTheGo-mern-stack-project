@@ -121,7 +121,6 @@ npm start
 
 * Passwords hashed with **bcrypt**
 * **React Context API** used for login state
-* No JWT or sessions – context-driven access control
 
 ---
 
